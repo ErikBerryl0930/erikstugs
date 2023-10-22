@@ -1,0 +1,23 @@
+{
+  "user": [
+    {},
+    {
+      "id": "bddbdb",
+      "name": "rrjrjrrjr",
+      "password": "papapaapap",
+      "email": "budi@gmail.com",
+      "phone": "1344",
+      "country": "usa",
+      "address": "ffff",
+      "gender": "female"
+    }
+  ],
+  "articles": [
+    {
+      
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
